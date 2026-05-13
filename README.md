@@ -27,6 +27,9 @@ A simple calculator using Arduino, a 4x4 keypad, and a 16x2 LCD display. Perform
    - `D` = `/`
    - `*` = Reset
    - `#` = Calculate/Equals
+  
+## Contribution
+Feel free to contribute.
 
 ## License
 
